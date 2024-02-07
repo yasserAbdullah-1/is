@@ -1,0 +1,30 @@
+
+  .my-list {
+    background-color: #f7f381;
+    padding: 8px 24px;
+    width: 500px;
+    font-size:30px; 
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    margin: 0 auto; 
+  }
+  
+ .my-list h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  .my-list p {
+    text-align: center;
+    color: black;
+  }
+  
+  .my-list ol {
+    margin: 12px;
+  }
+  .my-list p{
+    font-style:oblique;
+    color: rgb(121, 125, 62);
+  }
+  
+  
